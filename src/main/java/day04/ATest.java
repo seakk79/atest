@@ -9,5 +9,6 @@ public class ATest {
 	
 	public static void main(String[] args) {
 		System.out.println("咳咳");
+		System.out.println("呵呵");
 	}
 }
